@@ -1,0 +1,5 @@
+rtc.c:4:6:show_date_time_itm	48	static
+rtc.c:28:6:show_date_time	56	static
+rtc.c:61:6:rtc_config_time	16	static
+rtc.c:67:6:rtc_config_date	16	static
+rtc.c:72:5:validate_rtc	16	static
