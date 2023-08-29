@@ -8,7 +8,5 @@ To run the application:
 
 The application was tested on STM32F413ZH Nucleo-144 containing ARM Cortex M4 so I cannot guarantee for other MCUs.
 
----
-
-[Medium Article](https://rohitimandi.medium.com/freertos-led-and-rtc-using-timers-stm32-f975b20d7e63)
+This [Medium Article](https://rohitimandi.medium.com/freertos-led-and-rtc-using-timers-stm32-f975b20d7e63) describes the structure and state diagram of the application.
 
