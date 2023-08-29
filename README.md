@@ -1,3 +1,14 @@
 # FreeRTOS-LED-and-RTC-Using-Timers-STM32
 
-This project demonstrates the use of FreeRTOS kernel. The project blinks all the on-board LEDs on STM32NUCLEO-F413ZH, configures and prints the on-board real-time-clock (RTC) based on input provided to the serial terminal. The RTC value printed may vary depending on the MCU board.
+To run the application:
+
+1.) Install STM32CubeIDE from [here](https://www.st.com/en/development-tools/stm32cubeide.html)<br />
+2.) Clone the repo and change to the ```code``` directory<br />
+3.) Build and run the project using the IDE
+
+The application was tested on STM32F413ZH Nucleo-144 containing ARM Cortex M4 so I cannot guarantee for other MCUs.
+
+---
+
+[Medium Article](https://rohitimandi.medium.com/freertos-led-and-rtc-using-timers-stm32-f975b20d7e63)
+
